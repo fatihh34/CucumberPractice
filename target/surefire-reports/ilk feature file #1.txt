@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: ilk feature file #1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.416 s <<< FAILURE! - in ilk feature file #1
+TC02_amazon_selenium_arama(ilk feature file #1)  Time elapsed: 10.416 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'sayfa basliginin seleniumii icerdigini test eder' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("sayfa basliginin seleniumii icerdigini test eder")
+public void sayfa_basliginin_seleniumii_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

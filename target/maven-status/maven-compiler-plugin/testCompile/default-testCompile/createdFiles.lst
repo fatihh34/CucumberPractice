@@ -1,4 +1,9 @@
+pages\AmazonPage.class
+stepdefinitions\Hooks.class
 runners\Runner.class
 utilities\Driver.class
+stepdefinitions\MyStepdefs.class
 stepdefinitions\AmazonStepDefinition.class
 utilities\ConfigReader.class
+pages\DqaPage.class
+runners\Runner1.class
